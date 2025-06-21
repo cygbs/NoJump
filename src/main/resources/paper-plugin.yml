@@ -1,0 +1,4 @@
+name: NoJump
+version: '1.0-SNAPSHOT'
+main: org.bugcraft.NoJump
+api-version: '1.21'
